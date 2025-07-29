@@ -5,7 +5,6 @@
 - Swap stone hammer for flint hammer
 - Add new multi for crafting andesite
 - Remove crafting table, smeltery, & alloy smelter recipes for diorite, andesite, & granite
-- Remove redstone bloom
 
 **Mod Changes**
 - AdvancedPeripherals-1.20.1-0.7.41r -> AdvancedPeripherals-1.20.1-0.7.44r
