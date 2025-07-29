@@ -16,10 +16,10 @@
         "id": "lootbags:loot_bag",
         "count": 1,
         "nbt": {
-          "Loot": "lootbags:kjs/3ui6gksr7gxl82e5t9pkch2ls",
-          "Name": "Lootbag (ULV Age)",
+          "Type": "COMMON",
           "Color": 13882323,
-          "Type": "COMMON"
+          "Loot": "lootbags:kjs/3ui6gksr7gxl82e5t9pkch2ls",
+          "Name": "Lootbag (ULV Age)"
         }
       },
       "type": "heracles:item"
@@ -47,7 +47,7 @@
       },
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
     "title": {
       "translate": "Steel Ingot"
     }

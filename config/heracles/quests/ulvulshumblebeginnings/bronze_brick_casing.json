@@ -1,6 +1,7 @@
 {
   "dependencies": [
-    "bloomery"
+    "bloomery",
+    "crafting_table"
   ],
   "tasks": {
     "431A2112ED3305B8": {
@@ -33,7 +34,7 @@
       },
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
       "translate": "Bronze Brick Casing"
     }

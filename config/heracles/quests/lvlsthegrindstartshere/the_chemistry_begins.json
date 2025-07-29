@@ -23,7 +23,7 @@
     "groups": {
       "LV/LS - The Grind Starts Here": {
         "position": [
-          -247,
+          -248,
           9
         ]
       }
@@ -35,7 +35,7 @@
       },
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
       "translate": "The Chemistry Begins"
     }

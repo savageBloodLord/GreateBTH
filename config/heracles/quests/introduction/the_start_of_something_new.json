@@ -17,8 +17,13 @@
     "groups": {
       "Introduction": {
         "position": [
+<<<<<<< HEAD
           1,
           -75
+=======
+          0,
+          -70
+>>>>>>> parent of d6cd25f (Quests)
         ]
       }
     },
@@ -29,7 +34,7 @@
       },
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
     "title": {
       "translate": "The Start of Something New"
     }
